@@ -1,3 +1,8 @@
+## ServerlessAWS-InvoiceSystem
+
+
+A complete Serverless solution for Invoice System using AWS Lambda with NodeJS, API Gateway, DynamoDB and ReactJS for frontend using Amazon S3 for hosting. Users can see all the invoices updated by the organization in DynamoDB and can choose the relevant options for each invoice to either accept, deny and check the images of each invoice.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
